@@ -23,10 +23,12 @@ body {
   flex-direction: column;
   gap: 30px;
   padding: 12px;
+  border-radius: 15px;
 }
 
 .img {
   width: 576px;
+  border-radius: 15px;
 }
 
 .text-container {
