@@ -19,3 +19,7 @@ body {
   gap: 30px;
   padding: 16px;
 }
+
+.img {
+  width: 576px;
+}
